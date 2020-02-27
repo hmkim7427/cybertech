@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/xianmu/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/xianmu/catkin_ws/src/DynamixelSDK/ros/include/**",
+                "/home/xianmu/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_controllers/include/**",
+                "/home/xianmu/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_operators/include/**",
+                "/home/xianmu/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox/include/**",
+                "/home/xianmu/catkin_ws/src/modified_teleop/include/**",
+                "/home/xianmu/catkin_ws/src/my_first_gazebo/include/**",
+                "/home/xianmu/catkin_ws/src/my_grasping/include/**",
+                "/home/xianmu/catkin_ws/src/open_manipulator/open_manipulator_control_gui/include/**",
+                "/home/xianmu/catkin_ws/src/open_manipulator/open_manipulator_controller/include/**",
+                "/home/xianmu/catkin_ws/src/open_manipulator/open_manipulator_libs/include/**",
+                "/home/xianmu/catkin_ws/src/open_manipulator_applications/open_manipulator_master_slave/include/**",
+                "/home/xianmu/catkin_ws/src/open_manipulator/open_manipulator_moveit/include/**",
+                "/home/xianmu/catkin_ws/src/open_manipulator_applications/open_manipulator_pick_and_place/include/**",
+                "/home/xianmu/catkin_ws/src/open_manipulator/open_manipulator_teleop/include/**",
+                "/home/xianmu/catkin_ws/src/robotis_manipulator/include/**",
+                "/home/xianmu/catkin_ws/src/second_topic/include/**",
+                "/home/xianmu/catkin_ws/src/topic_subscriber2_pkg/include/**",
+                "/home/xianmu/catkin_ws/src/topic_subscriber_pkg/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
