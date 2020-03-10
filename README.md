@@ -1,6 +1,7 @@
 # cybertech
 ## 이것은 cybertech 동계방학 인턴동안 진행한 내용을 담은 것입니다.
 
+0. 이것은 OpenCV를 이용해 물건을 감지하는 것과 Open manipulator-X를 특정 좌표로 이동시키기 위한 코드를 담고 있습니다.
 1. opencv_node_detection 폴더 안에는 세 개의 파이썬 파일이 존재합니다.
 2. 'color_node_detection.py'는 파란색을 물체를 감지해 중심값을 산출하는 코드입니다.
 3. 'trans_detection_txt.py'는 투명한 물체를 감지해 중심값을 산출하는 코드입니다. 그리고 결과값을 텍스트파일로 만듭니다.
